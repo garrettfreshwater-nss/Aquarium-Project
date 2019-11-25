@@ -49,7 +49,7 @@ const fishCollection = [{
         species: "Blue fin tuna",
         size: 72,
         location: "Pacific Ocean",
-        image: "/images/goldie-fish.jpg"
+        image: "/images/cybertruck.png"
     },
 
     {
@@ -59,6 +59,14 @@ const fishCollection = [{
         size: 38,
         location: "Deep sea",
         image: '/images/EEL.png'
+    },
+    {
+        name: "Dan",
+        food: ["krill", "small fish"],
+        species: "Angler Fish",
+        size: 38,
+        location: "Deep sea",
+        image: '/images/cybertruck.png'
     }
 ]
 

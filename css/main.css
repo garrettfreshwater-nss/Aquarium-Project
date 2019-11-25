@@ -17,13 +17,17 @@ body {
 
 h1 {
   color: #9400d3;
-  font-size: 30pt;
-  padding-left: 1em;
+    font-size: 20pt;
+    margin-left: -8em;
+    margin-top: 62px;
+    /* padding-top: 15em; */
+    padding-right: 5.5em;
 }
 
 img {
   max-width: 100%;
 }
+
 
 dialog {
   color: #5c4e61;
